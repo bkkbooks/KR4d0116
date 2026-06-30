@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0116/krp/v1/juan/2
+seq: 2
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0116_WYG_002-1a, image: WYG1122/WYG1122-0261c.png}
+body:
+  text: 樂靜集卷二宋李昭玘撰闕
+  hash: sha256:e24df4389c875669a9f0bc1e6a6aaa59ebe55b979382ab49914239fe6042546d
+metadata:
+  title: 樂靜集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:55:06.910335'
+  juan_title: 卷二
+  source:
+    repository: kanripo
+    path: KR4d0116/KR4d0116_002.txt
+hash: sha256:bb7e700e868bc742408db0e8a506e3f027d0888e5cb2a9984692e0fa583cae28
