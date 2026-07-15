@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4d0116_WYG_002-1a, image: WYG1122/WYG1122-0261c.png}
 body:
-  text: 樂静集巻二宋李昭玘撰闕
-  hash: sha256:ad9fec63fbc337f918aad44c3ae3756e8cbb42e0586e2d2d87490759b34f5484
+  text: 樂靜集卷二宋李昭玘撰闕
+  hash: sha256:e24df4389c875669a9f0bc1e6a6aaa59ebe55b979382ab49914239fe6042546d
 metadata:
   title: 樂靜集
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4d0116/KR4d0116_002.txt
-hash: sha256:b80539e53f277e4f7db4367f1ff30b57f5b2d59b81b7103a1456212a23f99353
+hash: sha256:bb7e700e868bc742408db0e8a506e3f027d0888e5cb2a9984692e0fa583cae28
